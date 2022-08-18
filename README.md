@@ -8,4 +8,4 @@ Although the game is not yet published, our SDK will finish shortly. If you're i
 
 The wiki is not finished yet. It will be available before the game release(hopefully).
 
-If you have any questions please contact me at e-mail: oppositenormal@outlook.com.
+If you have any questions please contact me at e-mail: oppositenormal@163.com.
